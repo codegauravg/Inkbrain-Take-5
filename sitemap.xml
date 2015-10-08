@@ -4,7 +4,10 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
     <url><loc>http://www.inkbrain.in/</loc></url>
-    <url><loc>http://www.inkbrain.in/debian</loc></url>
-    <url><loc>http://www.inkbrain.in/blog</loc></url>
-    <url><loc>http://www.inkbrain.in/scripts</loc></url>    
+    <url><loc>http://debian.inkbrain.in</loc></url>
+    <url><loc>http://blog.inkbrain.in</loc></url>
+    <url><loc>http://scripts.inkbrain.in</loc></url>
+    <url><loc>http://forum.inkbrain.in</loc></url>
+    <url><loc>http://research.inkbrain.in</loc></url>
+    <url><loc>http://loopholes.inkbrain.in</loc></url>
 </urlset>
